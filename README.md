@@ -17,7 +17,7 @@ This repository contains my team assignment for the **Web Programming** course a
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kebojuara/simplewebhtmlcss/
+   git clone https://github.com/kebojuara/landing-page-pm/
 2. Open index.html in your browser.
 No additional setup is required.
 
